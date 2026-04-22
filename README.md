@@ -1,5 +1,10 @@
 # HR Employee Attrition — Tableau Dashboard
 
+## View the Notebook
+> GitHub's notebook renderer can be unreliable. Use the links below for the best experience:
+
+[![Open in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/ShantanuDeshmukh21/hr-attrition-tableau-dashboard/blob/master/hr_attrition_prep.ipynb)
+
 ## Overview
 Python-based data preparation and exploratory analysis for an interactive HR Employee Attrition dashboard built and published on Tableau Public. Analyzes 1,470 employees to identify attrition drivers across departments, age groups, income levels, and working conditions.
 
